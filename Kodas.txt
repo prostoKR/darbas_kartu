@@ -31,7 +31,8 @@ public class Main {
     	System.out.println(peter.getName() + " weight: " + childrensHospital.weigh(peter) + " kilos");
     	
     	
-    	
+    	Konstantin
+
     	
     }
 }
